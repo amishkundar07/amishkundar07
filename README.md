@@ -7,8 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/_amish_kundar_/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_amish_kundar_" height="30" width="40" /></a>
-<a href="https://in.linkedin.com/in/amish-kundar-211624291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_amish_kundar_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_amish_kundar_/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_amish_kundar_" height="30" width="40" 
   
 </p>
 
