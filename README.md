@@ -1,24 +1,18 @@
-<h1 align="center">Hi 👋, I'm Amish kundar</h1>
-<h3 align="center">A passionate for coding and learning new thing about technology from India</h3>
+## 👋 Hey there! Amish here
+I'm a Full Stack Web Developer and dedicated Information Technology Student passionate about tech and coding.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amishkundar07&label=Profile%20views&color=0e75b6&style=flat" alt="amishkundar07" /> </p>
 
-- 🌱 I’m currently learning **c and c++**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/_amish_kundar_/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="blank"><img align="center" 
- <a href="https://linkidin.com/https://in.linkedin.com/in/amish-kundar-211624291/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="blank"><img align="center"                                                                                                 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_amish_kundar_" height="30" width="40" 
-  
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+#### 🌐 Connect with me on :  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amish-kundar-211624291//) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/KundarAmish_)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amishkundar07&show_icons=true&locale=en&layout=compact" alt="amishkundar07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amishkundar07&show_icons=true&locale=en" alt="amishkundar07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amishkundar07&" alt="amishkundar07" /></p>
+### 🚀 Technologies I work with:
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/Express.js-%23696969.svg?style=for-the-badge&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%234ea94b.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+
+---
