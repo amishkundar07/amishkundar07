@@ -1,5 +1,5 @@
 ## 👋 Hey there! Amish here
-I'm a Full Stack Web Developer and dedicated Information Technology Student passionate about tech and coding.
+I'm a Data Analyst and dedicated Information Technology Student passionate about tech and coding.
 
 
 
