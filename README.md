@@ -5,7 +5,7 @@ I'm a Data Analyst and dedicated Information Technology Student passionate about
 
 
 #### 🌐 Connect with me on :  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amish-kundar-211624291//) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/KundarAmish_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amish-kundar-8aa195343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/KundarAmish?t=j0KlBnAZjfAdE9IGa9dF_g&s=09)
 
 
 
